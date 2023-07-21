@@ -1,0 +1,9 @@
+"""
+__VIEWSTATE: MGsgwj2xq/49YgM4TF6XQbWUMM78vyekMLRkIV7DJyvO8XOQgpqS0Y4AB/Kr5v68Afhz8OQWnsk2TZamaB7Z7tMgERqLDRmSH6hyR46QYvESQo1S7ph6p4C6p+fJNFak+AhIkImYGv/HWPhIdC23jrD+eV4=
+__VIEWSTATEGENERATOR: C93BE1AE
+from:
+email: 1220353261@qq.com
+pwd: afafafa
+code: iwl9
+denglu: 登录
+"""
