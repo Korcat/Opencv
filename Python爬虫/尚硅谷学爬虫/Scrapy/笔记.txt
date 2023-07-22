@@ -1,0 +1,7 @@
+1.创建scrapy项目：scrapy startproject 项目名字（会将所有文件放在该文件夹下）
+    注意：名字不能以数字开头，也不能包含中文
+2.创建爬虫文件：需要在spiders文件夹中取创建
+    * scrapy genspider 爬虫文件名字 要爬取的网页url
+    * 注意url前不需要加传输协议（https://）
+3.运行爬虫代码
+    scrapy crawl 爬虫的名字（spiders下的自创文件中，name）
